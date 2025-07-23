@@ -51,7 +51,7 @@ class NewsWidget extends HTMLElement {
         .public-card__header {
           position: relative;
           width: 100%;
-          height: 220px;
+          height: 150px;
           background-size: cover;
           background-position: center;
         }
